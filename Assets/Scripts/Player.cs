@@ -47,7 +47,6 @@ public class Player : MonoBehaviour {
         if (isAttacking)
         {
             myAnimator.SetBool("Attacking", true);
-            Debug.Log("NOOBHARSHITHA");
         }
         else
         {
